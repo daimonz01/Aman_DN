@@ -31,7 +31,7 @@ if(x=="7"){xxx="/2018/11/static-and-pseudo-static-support-and.html"}
 if(x=="8"){xxx="/2018/11/corrosion-of-steel-strand.html"}
 if(x=="9"){xxx="/2018/11/aig-to-acquire-glatfelter-insurance.html"}
 if(x=="10"){xxx="/2018/11/racism-sexism-alleged-by-state.html"}
-if(x=="11"){xxx="/2018/11/hogan-redmer-again-tout-lower-health.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="11"){xxx="/2018/11/hogan-redmer-again-tout-lower-health_13.html"}a_to_ve[i].href="https://convert-safelink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
