@@ -32,7 +32,8 @@ if(x=="6"){xxx="/2018/11/Post6.html"}
 if(x=="7"){xxx="/2018/11/Post7.html"}
 if(x=="8"){xxx="/2018/11/Post8.html"}
 if(x=="9"){xxx="/2018/11/Post9.html"}
-if(x=="10"){xxx="/2018/11/Post10.html"}a_to_ve[i].href="https://aman-dn.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="/2018/11/Post10.html"}
+if(x=="11"){xxx="/2018/11/Post11.html"}a_to_ve[i].href="https://aman-dn.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
